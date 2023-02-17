@@ -5,14 +5,6 @@
  * Gunakan fungsi showPopUp() untuk menampilkan pop up error
  */
 
-/** @constant
-    @type {string}
-*/
-const RED = 'FF0000';
-
-/** @constant {number} */
-var ONE = 1;
-
 /** @module Login-Script */
 /** 
 * Membuat variabel loginFormElement untuk tampilan form.
