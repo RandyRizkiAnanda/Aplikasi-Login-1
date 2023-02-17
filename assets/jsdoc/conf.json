@@ -1,11 +1,4 @@
 {
-    /** @constant
-    @type {string}
-*/
-const RED = 'FF0000';
-
-/** @constant {number} */
-var ONE = 1;
     
     "plugins": ["plugins/markdown"]
 }
